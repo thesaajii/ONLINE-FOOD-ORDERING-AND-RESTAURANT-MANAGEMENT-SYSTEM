@@ -16,11 +16,13 @@ Easy Installation Process : Localhost
 Set up Menorah Restaurant through the following steps:
 
 Unzip and copy the script folder in your localhost.
-Run the script path from any web browser. Ex : http://localhost/project_folder_name/install.
+Run the script path from any web browser. Ex : http://localhost/install.
 Provide database settings.
 Run the installer.
 
 Easy Installation Process : Server
+
+to start the project="http://localhost/food"
 
 Set up Menorah Restaurant through the following steps:
 
@@ -28,7 +30,7 @@ Unzip and copy the script folder in your root folder.
 Create Database , user, password and assign privileges to user of all database
 
 Note down the databse name, user name, password.
-Run the script path from any web browser. Ex : http://my-domain/install.
+Run the script path from any web browser. Ex : http://localhost/install.
 Provide database settings.
 Run the installer.
 
